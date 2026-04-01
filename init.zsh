@@ -23,5 +23,5 @@ p6df::modules::oneschema::deps() {
 ######################################################################
 p6df::modules::oneschema::profile::mod() {
 
-  p6_return_words 'oneschema' "$"
+  p6_return_words 'oneschema' '$ONESCHEMA_API_KEY'
 }
