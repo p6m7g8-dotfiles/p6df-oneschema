@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-oneschema/init.zsh
 
 - `p6df::modules::oneschema::deps()`
-- `words oneschema $ONESCHEMA_API_KEY = p6df::modules::oneschema::profile::mod()`
+- `words oneschema = p6df::modules::oneschema::profile::mod()`
 
 ## Hierarchy
 

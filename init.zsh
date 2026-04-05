@@ -13,10 +13,10 @@ p6df::modules::oneschema::deps() {
 ######################################################################
 #<
 #
-# Function: words oneschema $ONESCHEMA_API_KEY = p6df::modules::oneschema::profile::mod()
+# Function: words oneschema = p6df::modules::oneschema::profile::mod()
 #
 #  Returns:
-#	words - oneschema $ONESCHEMA_API_KEY
+#	words - oneschema
 #
 #  Environment:	 ONESCHEMA_API_KEY
 #>
